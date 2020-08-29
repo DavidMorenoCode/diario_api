@@ -1,0 +1,11 @@
+.contenedorSimpson{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card{
+    max-width: 300px;    
+    margin: 20px;
+}
