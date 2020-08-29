@@ -50,16 +50,6 @@ async function obtenerSimpson() {
         contenedorSimpson.appendChild(personaje); 
         
     }
-
-
-    
-
-    // for (let index = 0; index < 5; index++) {
-    //     let data = resultJson.messages.non_personalized[index];
-    //     let newP = document.createElement('p');
-    //     newP.textContent = data; 
-    //     contenedorSimpson.appendChild(newP);
-    // } 
 }
 obtenerTrump();
 obtenerSimpson();
